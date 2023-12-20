@@ -1,0 +1,31 @@
+body {
+    zoom: 0.8; /* not necessary but nice on browsers that support */
+    background-color: #f2f3f7;
+    font-family: 'Source Sans 3', sans-serif;
+    color: #343330;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4 { font-weight: 600; }
+p, p.small {font-weight: 400;}
+
+h1 { font-size: 65px; }
+h2 { font-size: 50px; }
+h3 { font-size: 38px; }
+h4 { font-size: 26px; }
+p { 
+    font-size: 22px; 
+    line-height: 30px;
+}
+p.small { font-size: 16px; }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+i {
+    font-size: 30px;
+    color: black;
+}
