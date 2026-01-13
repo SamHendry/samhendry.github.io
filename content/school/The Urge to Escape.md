@@ -1,6 +1,11 @@
 ---
 created: 2025-05-05
+title: "The Urge to Escape: 1960s Commune Movements and their Embodied Critique"
 ---
+> University of California Berkeley
+> Sociology 141
+> Laleh Behbehanian
+
 When I read Brave New World by Aldous Huxley, the character that I feel the most allegiance to was the “Savage,” a transplant from a faraway culture living in a society not of his own design. Society in this dystopian vision reality is highly engineered, with prescribed consumerism, mandated hedonism, and the ruling order focus on meeting the impulses and desires of everyone, using comfort and complacency as a means of control. Unable to withstand the state of society, the savage attempts to escape, removing himself to a lighthouse where he hopes to live out the remainder of his life in a way that he can control. However, when he succumbs to the pressure of society and performs an act of hedonism, he realizes he cannot escape and commits suicide. Preceding his escape attempt, the savage remarked, “I ate civilization … It poisoned me; I was defiled. And then I ate my own wickedness” (241).
 
 The savage’s experience in BNW is an extreme example of the conflicts that arise from living in a society not of your own design, and the allure of escape to one you can. This feeling is best embodied by the 1960s Commune Movements, who reacted to a changing world they were dissatisfied with, and chose to withdraw to reclaim freedom to build their own world. It is perhaps best described by Robert Hourier, a journalist who visited fifty communes between 1968 and 1970. He called it “the gut reaction of a generation” (xii), speaking to the communard’s reaction to the misaligned status quo. There was an incredibly unpopular Vietnam war, the civil rights movement was brewing, and politics relating to rights and “moral passion” were increasingly visible with TV as the newly dominant form of home entertainment. Counterculture was disgusted at the direction of American culture and worship of the dollar, and psychedelics were widely available (Miller 6, 67). To add to the dizziness, “Successful adulthood was pictured as a two car garage house in a white suburb. To young people, this looked like a sham, and they were ready to quit” (Odell, 38).
