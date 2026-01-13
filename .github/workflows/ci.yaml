@@ -61,12 +61,12 @@ jobs:
           npm install
           npx quartz build
 
-      - name: Copy raw HTML folder
-        run: |
-          ls -la
-          cp -r raw_html/* public/ || true
-          echo "Contents of public directory:"
-          ls -la public/
+      # - name: Copy raw HTML folder
+      #   run: |
+      #     ls -la
+      #     cp -r raw_html/* public/ || true
+      #     echo "Contents of public directory:"
+      #     ls -la public/
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
