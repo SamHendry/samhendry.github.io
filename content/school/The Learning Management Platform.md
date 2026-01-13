@@ -2,8 +2,9 @@
 title: "The Learning Management Platform: Canvas’ Rise to Power"
 created: 2025-12-15
 ---
+> Samuel Eaton
 > University of California Berkeley
-> Political Economy 159
+> Political Economy 159: Digital Technology, Political Economy, and Justice
 > Khalid Kadir
 
 In 2011, Instructure launched its learning management system (LMS) Canvas with the explicit goal of displacing BlackBoard, the incumbent LMS provider (Locke, 2015). Founded in 2008, Instructure was started by two BYU graduate students who hoped to address all the ways in which the predominant LMS systems lacked. What they came up with, Canvas, differentiated itself by adopting a new kind of business model that was gaining traction: Software-as-a-service (Tate, 2018). This meant that Canvas was built on the cloud, so instead of managing hosting and versioning yourself or paying someone to do it (like Blackboard), you paid Instructure to use their Canvas cloud instance and took updates as they came. In 2013, when edutechnica began tracking LMS market share (Data-Driven Campus LMS Strategy, 2013), Blackboard sat at around 40% with its biggest competitor being Moodle, an open-source alternative to Blackboard's commercial LMS. Fast forward to 2025, Blackboard’s parent company has declared bankruptcy and Canvas now holds a dominant 45% and growing market share (LMS Data - Spring 2025 Updates, 2025). 

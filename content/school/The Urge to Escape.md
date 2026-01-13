@@ -2,8 +2,9 @@
 created: 2025-05-05
 title: "The Urge to Escape: 1960s Commune Movements and their Embodied Critique"
 ---
+> Samuel Eaton
 > University of California Berkeley
-> Sociology 141
+> Sociology 141: Social Movements and Political Action
 > Laleh Behbehanian
 
 When I read Brave New World by Aldous Huxley, the character that I feel the most allegiance to was the “Savage,” a transplant from a faraway culture living in a society not of his own design. Society in this dystopian vision reality is highly engineered, with prescribed consumerism, mandated hedonism, and the ruling order focus on meeting the impulses and desires of everyone, using comfort and complacency as a means of control. Unable to withstand the state of society, the savage attempts to escape, removing himself to a lighthouse where he hopes to live out the remainder of his life in a way that he can control. However, when he succumbs to the pressure of society and performs an act of hedonism, he realizes he cannot escape and commits suicide. Preceding his escape attempt, the savage remarked, “I ate civilization … It poisoned me; I was defiled. And then I ate my own wickedness” (241).
