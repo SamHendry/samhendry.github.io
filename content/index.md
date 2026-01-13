@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Samuel Hendry Eaton
 ---
 
-Hello world!
-
-One more time!
+Hello!
