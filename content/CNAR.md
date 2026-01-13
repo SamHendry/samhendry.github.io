@@ -1,7 +1,7 @@
 ---
 created: 2025-07-01
 ---
-CNAR (Climbing numerical assessment of radness) is a translation of G.N.A.R (Gaffney's numerical assessment of radness) for climbing. Climbing conveniently already has an effective numeric ranking system, making it much easier, however I have converted all bonus points to be climbing-specific. Currently adapted for boulderers, but you can use your imagination to extrapolate it. To make sure that extra credit points apply to all levels, I use terms like "easy", "hard", "limit," or "project" in place of V-grades. Enjoy!
+CNAR (Climbing numerical assessment of radness) is a translation of GNAR (Gaffney's numerical assessment of radness) for climbing. Climbing conveniently already has an effective numeric ranking system, making it much easier, however I have converted all bonus points to be climbing-specific. Currently adapted for boulderers, but you can use your imagination to extrapolate it. To make sure that extra credit points apply to all levels, I use terms like "easy", "hard", "limit," or "project" in place of V-grades. Enjoy!
 
 ### Reference
 [squallywood](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy8wY2M5NDY4MWVlMzUzNmY3L0VWcGdGWUljVzVoT2pQN1FQX3dSUVNJQkZ0Y3dGVDVWbldIMzVOTXMybEw1YkE_ZT1aeHBzRkk&cid=0CC94681EE3536F7&id=CC94681EE3536F7%21s8215605a5b1c4e988cfed03ffc114122&parId=CC94681EE3536F7%21104&o=OneUp)
@@ -17,13 +17,13 @@ CNAR (Climbing numerical assessment of radness) is a translation of G.N.A.R (Gaf
 - What behavior do we want to encourage?
 %%
 # The Game
-### Requirements:
+### Requirements
 Mental Age: 1 to 65 years old
 IQ: 60 to 100
 Number of Players: 2 to $\infty$
-### Object:
+### Object
 Score as many points as possible to acquire the highest "CNAR Factor."
-### To Play:
+### To Play
 1) Players decide on a group of competitors
 2) Choose a time limit (day, week, month)
 3) Choose a crag or area

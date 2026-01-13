@@ -16,7 +16,7 @@ interface ContentMetaOptions {
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
-  showComma: true,
+  showComma: false,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -32,6 +32,8 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       if (fileData.dates) {
         segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
       }
+
+      segments.push(" - ") // seperator in place of a comma
 
       // Display reading time if enabled
       if (options.showReadingTime) {

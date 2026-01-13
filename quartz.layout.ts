@@ -21,13 +21,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
+    // Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    // Component.Search(),
+    // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -43,8 +43,8 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    // Component.Search(),
+    // Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
