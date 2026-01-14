@@ -1,6 +1,9 @@
 ---
 created: 2025-08-19
 ---
+> [!info] Context
+> The following is a brief I wrote for the company at the end of my summer 2025 internship.
+
 Hi friends! I'm Sam, the "Tech Innovation Intern." At Common Sense I investigated two curiosities: can we build interactive content in house, and how does AI enable rapid development and prototyping? To answer these questions, I used AI tooling to built a fully functional web game that teaches kids AI detection skills (yes, there is irony here). I worked with both educators and developers on staff to ensure the quality of the game, code wise and content wise. As Common Sense plays with the idea of creating interactive content, I hope that my work can be a case study of what is possible. This document details what I learned.
 
 The [game](https://commonsense-org.github.io/games-poc) (link subject to change)—adapted from "Two Truths and AI," an idea from *Out of the Box Days* that caught everyone's attention. 

@@ -1,7 +1,7 @@
 ---
 created: 2025-11-19
 ---
-> [!info] Note
+> [!info] Context
 > The following is a piece my girlfriend and I wrote for our climbing club, see the original post [here](https://climbing.studentorg.berkeley.edu/2025/11/19/the-role-of-trips/).
  
 Dear Cal Climbing,
