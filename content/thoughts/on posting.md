@@ -19,14 +19,14 @@ Time is all over the place, and I think that it is really hard to make posting f
 - I think what I post are moreso "spots of time.” This is concept from a William Wordsworth poem. It refers to intense moments of emotional significance (specifically in nature) that last in memory and give you strength.
 
 > [!quote] William Wordsworth, The Prelude. Book 12. 208-218 (1850 edition)
-There are in our existence spots of time,
-That with distinct pre-eminence retain
-A renovating virtue, whence, depressed
-By false opinion and contentious thought,
-Or aught of heavier or more deadly weight,
-In trivial occupations, and the round
-Of ordinary intercourse, our minds
-Are nourished and invisibly repaired;
-A virtue, by which pleasure is enhanced,
-That penetrates, enables us to mount,
-When high, more high, and lifts us up when fallen
+> There are in our existence spots of time,
+> That with distinct pre-eminence retain
+> A renovating virtue, whence, depressed
+> By false opinion and contentious thought,
+> Or aught of heavier or more deadly weight,
+> In trivial occupations, and the round
+> Of ordinary intercourse, our minds
+> Are nourished and invisibly repaired;
+> A virtue, by which pleasure is enhanced,
+> That penetrates, enables us to mount,
+> When high, more high, and lifts us up when fallen
