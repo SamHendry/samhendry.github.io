@@ -1,7 +1,7 @@
 ---
 title: Introductions
 ---
-Hi! I'll be posting some of my thoughts here and uploading work I'm proud of.
+Hi! This is the personal website of Samuel Hendry Eaton. I'll be posting some of my thoughts here and uploading work I'm proud of.
 
  If you are moved by a piece, let me know. My intent is not to talk to a void. Much of this will not be scientific (I make little attempt to separate knowledge from experience), and I may not agree with what I've written in the past, but I hope you can find something of interests and stumble into a good conversation. A professor I met on a boat mused that his job title ought to be "provocateur"; I see this site in a similar manner.
 
