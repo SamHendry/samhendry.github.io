@@ -29,7 +29,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    // Component.DesktopOnly(Component.Search()),
     Component.Flex({
       components: [
         {
@@ -40,7 +39,6 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.DesktopOnly(Component.ReaderMode()) },
       ],
     }),
-    // Component.Darkmode(),
     Component.Explorer({ title: "Entries" }),
   ],
   right: [
@@ -56,8 +54,16 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    // Component.Search(),
-    // Component.Darkmode(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.DesktopOnly(Component.Search()),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: Component.DesktopOnly(Component.ReaderMode()) },
+      ],
+    }),
     Component.DesktopOnly(Component.Explorer({ title: "Entries" })),
   ],
   right: [],

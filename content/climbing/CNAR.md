@@ -33,8 +33,8 @@ Players may score points in the following ways:
 1) Attempting boulder problems for their V-points
 2) Acquiring extra credit points
 
-At the end of the designated time limit of game play, players shall total all their V-points plus their extra credit points and penalties to determine their CNAR Factor.
-$$\text{CNAR Factor = Problem Scores + Extra Credit Points - Penalties}$$
+At the end of the designated time limit of game play, players shall total all their V-points plus their extra credit points and penalties to determine their CNAR Factor:
+$$\text{V Points + ECPs - Penalties}$$
 ### To Win
 The winner is the player with the highest CNAR factor at the end of the designated playing time.
 
