@@ -1,7 +1,7 @@
 ---
 created: 2025-05-05
-title: "The Urge to Escape: 1960s Commune Movements and their Embodied Critique"
 ---
+> **The Urge to Escape: 1960s Commune Movements and their Embodied Critique**
 > Samuel Eaton
 > University of California Berkeley
 > Sociology 141: Social Movements and Political Action

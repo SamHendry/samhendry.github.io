@@ -1,5 +1,3 @@
-
-
 > Samuel Eaton  
 > University of California Berkeley  
 > Anthropology 250x: Ethnographies of Politics  

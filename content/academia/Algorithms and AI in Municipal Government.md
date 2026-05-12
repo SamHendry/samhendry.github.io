@@ -1,7 +1,7 @@
 ---
-title: Lenses to Consider Current & Future Uses of Algorithmic Tools & Artificial Intelligence in Municipal Government
 created: 2025-12-12
 ---
+> **Lenses to Consider Current & Future Uses of Algorithmic Tools & Artificial Intelligence in Municipal Government**
 > Samuel Eaton, Kristy Ketcham, & Jake Brymner
 > University of California Berkeley
 > Public Policy 290: Case Studies in Prediction, Public Policy, and AI
