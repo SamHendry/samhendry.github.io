@@ -135,11 +135,11 @@ Yurchak, A. (2006). Everything was forever, until it was no more: The last Sovie
 
 [^10]:  Seaver here is also a bit of an insider. He describes himself as someone who very well could have ended up in the jobs that the people he studies hold. In the recommendation algorithm world, people float very freely between academia and industry (pp. 18-19).
 
-[^11]:  As the tech CEO he interviewed in the epilogue disparagingly called it (page?).
+[^11]:  As the tech CEO he interviewed in the epilogue disparagingly called it (p. 157).
 
 [^12]:  Stated in his Tufts bio, he is “interested in developing new ethnographic techniques for accessing and examining the cultural worlds of engineers.”
 
-[^13]:  Maybe a more useful question is whether or not it is anthropology (see Graber's controversial firing from Yale), but since this paper is on ethnography so I will attempt to stay on track.
+[^13]:  Maybe a more useful question is whether or not it is anthropology (see Graber's controversial firing from Yale), but since this paper is on ethnography I will attempt to stay on track.
 
 [^14]:  This is also a category he explicitly warns about, one that is hard to study since noticing the things that have become normal to you is hard (p. 62). It is easier to enter an unfamiliar world than to make your world less familiar.
 
