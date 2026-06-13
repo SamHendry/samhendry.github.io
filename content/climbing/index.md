@@ -1,0 +1,4 @@
+---
+title: climbing
+---
+I started climbing in January 2023 during my senior year of high school and developed a deep love for the sport. At Berkeley, the climbing community ([cal climbing](https://climbing.studentorg.berkeley.edu)) has been an incredibly welcoming and warm, and I've been lucky to contribute to it—serving as the clinics officer my sophomore year, vice president my junior year, and (hopefully) president my senior year. I occasionally log my accents on [mountain project](https://www.mountainproject.com/user/201544468/sam-hendry) and more rarely post on [instagram](https://www.instagram.com/trifoldpad) about them. I'm still figuring out how to communicate my climbing experiences to others, and am experimenting with new forms of media.
