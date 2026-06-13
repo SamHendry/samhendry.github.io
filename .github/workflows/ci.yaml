@@ -54,12 +54,15 @@ jobs:
       - name: Ensure Quartz builds, check bundle info
         run: npx quartz build --bundleInfo -d docs
 
-      - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: quartz-build
           path: ./public
           retention-days: 1
 
-      - name: Setup GitHub Pages
-        uses: actions/configure-pages@v4
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
