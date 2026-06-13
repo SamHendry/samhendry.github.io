@@ -54,6 +54,13 @@ jobs:
       - name: Ensure Quartz builds, check bundle info
         run: npx quartz build --bundleInfo -d docs
 
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: quartz-build
+          path: ./public
+          retention-days: 1
+
   deploy:
     needs: build-and-test
     permissions:
@@ -69,32 +76,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node
-        uses: actions/setup-node@v6
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4
         with:
-          node-version: 24
-
-      - name: Build Quartz
-        run: |
-          npm install
-          npx quartz build
-
-      # - name: Copy raw HTML folder
-      #   run: |
-      #     ls -la
-      #     cp -r raw_html/* public/ || true
-      #     echo "Contents of public directory:"
-      #     ls -la public/
+          name: quartz-build
+          path: ./public
 
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v4
-
-      - name: Upload GitHub Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
-          retention-days: 1
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
