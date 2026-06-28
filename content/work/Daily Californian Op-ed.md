@@ -22,7 +22,7 @@ Instructure is different from other LMS providers, in that it was an early adopt
 
 Moreover, Canvas uses a cloud provider to store student data and run Canvas instances or programs. Canvas argues that using Amazon Web Services, or AWS, a service which rents out technological infrastructure capable of collecting and storing an abundance of user information, allows them to be “creative in a very frictionless way.”
 
-By using AWS, Canvas outsources all of its security and reliability concerns to Amazon. This by no means guarantees security, as even Amazon has experienced many high-profile security breaches. And as we saw this past fall semester, Canvas was rendered unavailable due to an AWS outage: It does not have perfect uptime either. That even the world’s largest cloud provider has these failures reminds us that these services are still relatively immature and very much contested.
+But by using AWS, Canvas outsources some of its reliability to Amazon. As we saw this past fall semester, Canvas was rendered unavailable due to an AWS outage. That even the world’s largest cloud provider has these failures shows us that these services are not only highly interdependent but also layered in their fragility.
 
 Through the tracking of student enrollment, communication chains, assignment submissions and general site activity, this data storage fuels Canvas’s analytics environment. Canvas even offers an Application Programming Interface, a mechanism that enables communication between different software, through which you can export “event-level data” for the creation of custom Canvas dashboards.
 
