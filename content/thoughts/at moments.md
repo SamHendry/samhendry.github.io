@@ -4,8 +4,11 @@
 > Maturing is learning to love maintenance.
 > 7/28/2025
 
-> A tantrum of the mind often masquerades as a broken heart.
-> ?
-
-> I enjoy hearing babies cry on planes, it's nice to know someone else finds it as damn uncomfortable as I do.
+> I enjoy hearing babies cry on planes, it's nice to know someone else finds it as uncomfortable as I do.
 > 9/8/2025
+
+> Individual want is not, and has never been, a stable foundation for society. 
+> 6/25/2026
+
+> Curate your own distractions
+> 7/11/2026
